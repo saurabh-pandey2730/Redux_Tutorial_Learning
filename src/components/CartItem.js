@@ -19,6 +19,8 @@ const CartItem=({id, img,title, price,amount})=> {
       <p className='amount'>{amount}</p>
       <button className='amount-btn'>
         <ChevronDown />
+
+        
       </button>
     </div>
     </article>
